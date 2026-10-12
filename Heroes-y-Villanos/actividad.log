@@ -1,0 +1,57 @@
+2026-10-12 15:07:31,720 - INFO - Personaje agregado: Juan - ID: 1
+2026-10-12 15:07:31,720 - INFO - Personaje agregado: Pedro - ID: 2
+2026-10-12 15:07:31,760 - WARNING - ID duplicado: 1
+2026-10-12 15:07:31,760 - WARNING - ID duplicado: 2
+2026-10-12 15:07:31,760 - WARNING - ID duplicado: 1
+INFO - Prueba de login
+INFO - Personaje agregado: Juan - ID: 1
+INFO - Personaje agregado: Pedro - ID: 2
+WARNING - ID duplicado: 1
+WARNING - ID duplicado: 2
+WARNING - ID duplicado: 1
+2026-10-12 15:11:09,814 - INFO - Personaje agregado: Juan - ID: 1
+2026-10-12 15:11:09,814 - INFO - Personaje agregado: Pedro - ID: 2
+2026-10-12 15:11:09,820 - WARNING - ID duplicado: 1
+2026-10-12 15:11:09,820 - WARNING - ID duplicado: 2
+2026-10-12 15:11:09,820 - WARNING - ID duplicado: 1
+2026-10-12 15:12:51,478 - INFO - Búsqueda sin resultados para ID: 1
+2026-10-12 15:12:51,478 - INFO - Búsqueda sin resultados para ID: 99
+2026-10-12 15:12:51,478 - INFO - Personaje agregado: Juan - ID: 1
+2026-10-12 15:12:51,478 - INFO - Personaje agregado: Pedro - ID: 2
+2026-10-12 15:12:51,478 - INFO - Personaje encontrado con ID: 1
+2026-10-12 15:12:51,479 - INFO - Personaje encontrado con ID: 2
+2026-10-12 15:12:51,479 - INFO - Búsqueda sin resultados para ID: 99
+2026-10-12 15:12:51,484 - WARNING - ID duplicado: 1
+2026-10-12 15:12:51,485 - WARNING - ID duplicado: 2
+2026-10-12 15:12:51,485 - WARNING - ID duplicado: 1
+2026-10-12 15:15:46,901 - WARNING - Sin resultados: gitgod > 50
+2026-10-12 15:15:46,901 - WARNING - Sin resultados: nombre == Juan
+2026-10-12 15:15:46,901 - WARNING - Sin resultados: nombre == Fernando
+2026-10-12 15:15:46,901 - WARNING - Sin resultados: gitgod ! 50
+2026-10-12 15:15:46,901 - INFO - Búsqueda sin resultados para ID: 1
+2026-10-12 15:15:46,901 - INFO - Búsqueda sin resultados para ID: 99
+2026-10-12 15:15:46,901 - INFO - Personaje agregado: Juan - ID: 1
+2026-10-12 15:15:46,901 - INFO - Personaje agregado: Pedro - ID: 2
+2026-10-12 15:15:46,901 - INFO - Personaje encontrado con ID: 1
+2026-10-12 15:15:46,901 - INFO - Personaje encontrado con ID: 2
+2026-10-12 15:15:46,901 - INFO - Búsqueda sin resultados para ID: 99
+2026-10-12 15:15:46,907 - WARNING - ID duplicado: 1
+2026-10-12 15:15:46,907 - WARNING - ID duplicado: 2
+2026-10-12 15:15:46,907 - WARNING - ID duplicado: 1
+2026-10-12 15:27:53,765 - INFO - Personaje agregado: Juan - ID: 1
+2026-10-12 15:27:53,765 - INFO - Personaje agregado: Carlos - ID: 2
+2026-10-12 15:27:53,765 - INFO - Personaje agregado: Pedro - ID: 3
+2026-10-12 15:27:53,765 - INFO - Personaje agregado: Antonio - ID: 4
+2026-10-12 15:27:53,765 - INFO - Personaje encontrado con ID: 1
+2026-10-12 15:27:53,765 - INFO - Personaje encontrado: 2
+2026-10-12 15:27:53,765 - INFO - Personaje encontrado: 3
+2026-10-12 15:27:53,772 - INFO - Enfrentamiento: Heroe ID 2 contra Villano ID 4
+2026-10-12 15:27:53,772 - INFO - Enfrentamiento desequilibrado
+2026-10-12 15:27:53,772 - INFO - Diferencia de puntuación: 66.0
+2026-10-12 15:33:06,913 - INFO - Personaje agregado: Daniel - ID: 5
+2026-10-12 15:33:25,261 - INFO - Personaje agregado: Fran - ID: 2
+2026-10-12 15:33:31,337 - INFO - Personaje encontrado con ID: 2
+2026-10-12 15:33:36,879 - INFO - Enfrentamiento: Heroe ID 5 contra Villano ID 2
+2026-10-12 15:33:36,879 - INFO - Enfrentamiento desequilibrado
+2026-10-12 15:33:36,879 - INFO - Diferencia de puntuación: 29.75
+2026-10-12 15:33:45,192 - INFO - Programa finalizado

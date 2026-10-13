@@ -79,7 +79,7 @@ def gestion_simulacion(opcion, gestion):
                 elif atributo in ("id", "gitgod", "ausencias",
                                   "codigo_limpio", "bien_documentado",
                                   "arquitecto", "detallista",
-                                  "chagepeteador", "entregador_tardio",
+                                  "chagepeteador", "entregadorTardio",
                                   "hablador"):
                     valor = int(valor)
                 elif atributo == "puntuacion_total":
